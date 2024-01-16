@@ -114,7 +114,6 @@ export default function Home() {
                   <img
                     className="card-img-top  image-element p-0"
                     src="https://invisibl.io/wp-content/uploads/2023/11/fg-10.svg"
-                    alt="Card image"
                   />
                   <div className="card-body p-0">
                     <h5 className="card-title title-cards text-white">
