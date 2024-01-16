@@ -20,7 +20,7 @@ export default function Home() {
             <div className="col-md-6 column-element">
               <h1>Self-service Bioinformatics Platform</h1>
               <div className="btn-toolbar btn-group" role="toolbar">
-                <span className="button-click btn-click">
+                <span className="button-click btn-click" data="fast">
                   10x faster research
                 </span>
                 <span className="button-click btn-click">30% lower cost</span>
