@@ -1,0 +1,274 @@
+
+h2{
+  color: #FFFFFF;
+  font-family: "Inter", Sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30px;
+}
+h5{
+  color: #FFFFFF;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+}
+p{
+  display: inline-block;
+  color: #FFFFFFD9;
+  font-family: "Inter", Sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+.banner{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://invisibl.io/wp-content/uploads/2023/11/Banner-1.svg);
+  background-color: #1C0732;
+  background-position:  right;
+  background-repeat: no-repeat;
+  background-size: 960px;
+}
+
+.row .col-md-6 h1{
+  color: #FFFFFF;
+  font-family: "Inter", Sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 53px;
+}
+.btn-group{
+  gap: 20px;
+  padding: 20px 30px 20px 0px;
+}
+.btn-click{
+  border: none;
+  font-family: "Inter", Sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  fill: #CFB8FF;
+  color: #CFB8FF;
+  background-color: #2A1942;
+  border-radius: 30px 30px 30px 30px;
+  padding: 8px 30px 8px 20px;
+}
+.inner-image{
+  width: 100px;
+  height: 22px;
+}
+.btn-one{
+  font-family: "Inter", Sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #FFFFFF;
+  background-color: #FB6C22;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #FB6C22;
+  border-radius: 0px;
+  padding: 10px 30px ;
+  margin-top: 20px;
+}
+.btn-one:hover{
+  background-color: #FFFFFF;
+  color: #FB6C22;
+}
+.btn-two{
+  font-family: "Inter", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #A779F5;
+    background-color: #DBC6FF17;
+    border-style: solid;
+    border-width: 2px ;
+    border-color: #A779F5;
+    border-radius: 0px;
+    padding: 10px 40px ;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 201px;
+}
+.btn-two:hover{
+  background-color: #FFFFFF;
+  color: #A779F5;
+}
+.row.one{
+  margin: 0 20px;
+}
+
+
+
+.card.element-one{
+  background-color: #1C0732;
+}
+.all-cards{
+  padding: 30px;
+}
+.second-section{
+  padding: 50px 0px;
+}
+ /* @media (min-width: 1400px)
+ {
+  .container{   
+     max-width: 1240px !important;
+  }
+ } */
+.title-cards{
+  padding-top: 20px;
+}
+
+.head-element{
+  margin: 50px 0px;
+}
+
+.second-p-element{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.first-p-element{
+  font-size: 16px;
+  letter-spacing: -0.05px;
+  line-height: 24px;
+  font-weight: 300;
+
+}
+
+
+
+
+
+
+.section-container {
+  background-color: #1C0732;
+  padding: 90px 0;
+}
+
+.head-element {
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 80px;
+}
+
+.card-container {
+  background-color: #190830;
+  border: 1px solid #FFFFFF;
+  height: 100%;
+}
+
+.card-header.green-card-header {
+  padding: 0;
+  background-color: #B170F8;
+}
+
+.title-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.card-img-top.card-elmt  {
+  margin: 20px 0;
+  background-color: #190830;
+  border: none;
+}
+.card-body li{
+  background-color: #190830;
+}
+.card-img-top.one{
+  width: 130px;
+  height: 21px;
+}
+.card-img-top.two{
+  width: 170px;
+  height: 30px;
+}
+.card-img-top.three{
+  width: 190px;
+  height: 40px;
+}
+
+.card-img-top.four{
+  width: 155px;
+  height: 32px;
+}
+.card-img-top.five{
+  width:110px ;
+  height:30px ;
+}
+.card-img-top.six{
+  width: 100px;
+  height:32px ;
+}
+.card-img-top.seven{
+  width: 75px;
+  height: 45px;
+}
+.card-img-top.eight{
+  width: 190px;
+  height: 36px;
+}
+.card-img-top.nine{
+  width: 117px;
+  height: 34px;
+}
+
+
+
+
+.element-card-four{
+  background-color: #1c0732;
+  height: 100%;
+}
+.image-element{
+  padding: 0px 20px;
+}
+.card-img-top.img-head{
+  background-color: white;
+  object-fit: contain;
+  border-radius: 6px;
+  height: 280px;
+}
+.para-elements{
+  font-size: 17px;
+  letter-spacing: -0.05px;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+.body-elements{
+  background-color: #F5F1FD;
+}
+.card-body.body-elements p{
+  letter-spacing: -0.05px;
+  line-height: 24px;
+  color: #323157;
+  text-align: center;
+}
+.head6{
+  background-color: #190830;
+  padding: 14px 0px;
+  color: #FFFFFF;
+  border-radius: 6px 6px 0px 0px;
+}
+.second-div{
+  margin: 100px 0px;
+}
+.first-div{
+  margin-top: 100px;
+}
